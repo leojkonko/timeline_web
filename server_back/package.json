@@ -16,9 +16,12 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
+    "@fastify/cors": "^8.3.0",
     "@prisma/client": "^5.2.0",
     "eslint": "^8.48.0",
-    "fastify": "^4.22.2"
+    "fastify": "^4.22.2",
+    "minimatch": "^9.0.3",
+    "zod": "^3.22.2"
   },
   "description": ""
 }
