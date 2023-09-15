@@ -34,4 +34,16 @@ Siga os passos abaixo para instalar e executar o projeto em sua máquina:
 1. Clone o repositório do GitHub:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/leojkonko/timeline_web.git
+```
+
+2. Navegue até o diretório Back-end para iniciar o servidor:
+
+```bash
+npm run dev
+```
+2. Navegue até o diretório Front-end para iniciar a aplicação:
+
+```bash
+npm run dev
+```
