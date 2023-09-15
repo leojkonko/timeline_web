@@ -24,3 +24,12 @@ Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git
+
+2. inicie o servidor back-end
+```bash
+npm run dev
+
+3. inicie a aplicação front-end
+```bash
+npm run dev
+
