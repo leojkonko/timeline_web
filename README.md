@@ -24,7 +24,7 @@ Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 Siga os passos abaixo para instalar e executar o projeto em sua máquina:
 
 1. Clone o repositório do GitHub:
-
+ 
 ```bash
 git clone https://github.com/leojkonko/timeline_web.git
 ```
