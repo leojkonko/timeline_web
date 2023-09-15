@@ -18,14 +18,6 @@ Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) - Versão X.X.X
 - Outros requisitos...
 
-## Instalação
-
-Siga os passos abaixo para instalar e executar o projeto em sua máquina:
-
-1. Clone o repositório do GitHub:
-
-```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
 
 ## Instalação
 
