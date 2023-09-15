@@ -26,3 +26,12 @@ Siga os passos abaixo para instalar e executar o projeto em sua máquina:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git
+
+## Instalação
+
+Siga os passos abaixo para instalar e executar o projeto em sua máquina:
+
+1. Clone o repositório do GitHub:
+
+```bash
+git clone https://github.com/seu-usuario/seu-projeto.git
