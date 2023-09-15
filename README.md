@@ -2,6 +2,7 @@
 # SPACETIME
 
 timeline - Collect your journey moments and share (if you want) with the world!
+In this project you can save your memories through your journey.
 
 ## Table of Contents
 
