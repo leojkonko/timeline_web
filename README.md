@@ -1,41 +1,26 @@
-# timeline_web
-In this project you can save your memories through your journey.
+# Nome do Seu Projeto
 
-timeline - Collect your journey moments and share (if you want) with the world!
+Breve descrição do seu projeto. Você pode incluir informações sobre o que o projeto faz, seu objetivo e qualquer outra informação relevante.
 
+## Table of Contents
 
-About the project • Layout • Technologies • Getting started • License
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 
-💲 About the project
-timeline is a project created in Rocketseat NLW - Next Level Week
+## Pré-requisitos
 
-In this project you can save your memories through your journey.
+Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 
-🔖 Layout
-You can view the project layout through the links below:
+- [Node.js](https://nodejs.org/) - Versão X.X.X
+- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) - Versão X.X.X
+- Outros requisitos...
 
-Layout in Figma
-Remembering that you need to have a Figma account to access it.
+## Instalação
 
-🚀 Technologies
-ReactJS
-TypeScript
-expo
-tailwindcss
-💻 Getting started
-Requirements
-Node.js
-Yarn or NPM (examples are with npm)
-Follow the steps below
+1. Clone o repositório do GitHub:
 
-# Install the dependencies in every folder
-$ npm
-
-# Start the app in every folder
-$ npm run dev (front)
-$ npm run dev (back)
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Made by Leonardo Meyer
+```bash
+git clone https://github.com/seu-usuario/seu-projeto.git
