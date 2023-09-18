@@ -22,7 +22,6 @@ Antes de começar, certifique-se de ter instalado os seguintes requisitos:
  
 ## Technologies
 
-Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 🚀 Technologies
 
 - [ReactJS](https://react.dev/)
