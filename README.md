@@ -11,29 +11,26 @@ Layout in Figma: [Layout](https://www.figma.com/file/n3iGB8MJOUiBPXs5DIjAuZ/C%C3
 
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 
-- [Node.js](https://nodejs.org/) - Versão X.X.X
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) - Versão X.X.X
-- Outros requisitos...
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
  
 ## Technologies
 
 Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 🚀 Technologies
 
-[ReactJS](https://react.dev/)
-[Node.js](https://nodejs.org/)
-[npm](https://www.npmjs.com/)
-[TypeScript](https://www.typescriptlang.org/)
-[Expo](https://expo.dev/)
-[Tailwind](https://tailwindcss.com/)
+- [ReactJS](https://react.dev/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Expo](https://expo.dev/)
+- [Tailwind](https://tailwindcss.com/)
 - Outros requisitos...
 
 
