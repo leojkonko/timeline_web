@@ -18,7 +18,7 @@ Layout in Figma: [Layout](https://www.figma.com/file/n3iGB8MJOUiBPXs5DIjAuZ/C%C3
 Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 
 - [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
  
 ## Technologies
 
