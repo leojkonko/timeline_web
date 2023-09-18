@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter instalado os seguintes requisitos:
 - [Node.js](https://nodejs.org/) - Versão X.X.X
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) - Versão X.X.X
 - Outros requisitos...
-
+ 
 ## Technologies
 
 Antes de começar, certifique-se de ter instalado os seguintes requisitos:
